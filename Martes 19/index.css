@@ -1,0 +1,47 @@
+h2,p{
+    color: darkcyan;
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.class{
+    color: blueviolet;
+}
+.class{
+    background-color: aqua;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    width: 50px;
+    margin: 50px;
+    float: right;
+}
+.visita{
+background-color: greenyellow;
+}
+.destino{
+    background-color: red;
+}
+.Transporte{
+    background-color: rgb(143, 24, 73);
+}
+.Ruinas{
+    background-color: burlywood;
+}
+.per{
+    background-color: violet;
+}
+.aer{
+    background-color: rgb(31, 140, 162);
+}
+.cl{
+    background-color: cyan;
+}
+.marit{
+    background-color: rosybrown;
+}
+.Isla{
+    background-color: tomato;
+}
+
